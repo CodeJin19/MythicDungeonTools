@@ -7,11 +7,11 @@ L = L or {}
 
 --[[
 now
-L["Nokhud Saboteur"] = "Nokhud Saboteur"
-L["Primalist Arcblade"] = "Primalist Arcblade"
-L["Nokhud Houndsman"] = "Nokhud Houndsman"
-L["Nokhud Warsmith"] = "Nokhud Warsmith"
-L["Stormcaller Arynga"] = "Stormcaller Arynga"
+L["Nokhud Saboteur"] = "노쿠드 파괴공작원"
+L["Primalist Arcblade"] = "원시술사 전격검"
+L["Nokhud Houndsman"] = "[Nokhud Houndsman]"
+L["Nokhud Warsmith"] = "노쿠드 전쟁대장장이"
+L["Stormcaller Arynga"] = "폭풍소환사 아린가"
 L["War Ohuna"] = "War Ohuna"
 L["Nokhud Neophyte"] = "Nokhud Neophyte"
 L["Desecrated Bakar"] = "Desecrated Bakar"
